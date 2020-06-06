@@ -1,0 +1,6 @@
+numpy
+keres
+flask
+flask_restful
+tensorflow
+sklearn
